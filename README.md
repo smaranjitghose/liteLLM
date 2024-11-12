@@ -35,7 +35,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-4. Open `litellm_tutorial.ipynb` and follow along!
+4. Open `litellm_Demo.ipynb` and follow along!
 
 ## What's Inside? 📦
 
